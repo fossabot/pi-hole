@@ -20,6 +20,7 @@ The Pi-hole is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_Sinkhole) that
 <a href="https://www.codacy.com/app/Pi-hole/pi-hole?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pi-hole/pi-hole&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/c558a0f8d7124c99b02b84f0f5564238" alt="Codacy Grade"/></a>
 <a href="https://travis-ci.org/pi-hole/pi-hole"><img src="https://travis-ci.org/pi-hole/pi-hole.svg?branch=development" alt="Travis Build Status"/></a>
 <a href="https://www.bountysource.com/trackers/3011939-pi-hole-pi-hole?utm_source=3011939&utm_medium=shield&utm_campaign=TRACKER_BADGE"><img src="https://www.bountysource.com/badge/tracker?tracker_id=3011939" alt="BountySource"/></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fdschaper%2Fpi-hole?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdschaper%2Fpi-hole.svg?type=shield"/></a>
 
 ## One-Step Automated Install
 Those who want to get started quickly and conveniently, may install Pi-hole using the following command:
@@ -215,3 +216,7 @@ While quite outdated at this point, [this original blog post about Pi-hole](http
 - [CryptoAUSTRALIA: How We Tried 5 Privacy Focused Raspberry Pi Projects](https://blog.cryptoaustralia.org.au/2017/10/05/5-privacy-focused-raspberry-pi-projects/)
 - [CryptoAUSTRALIA: Pi-hole Workshop](https://blog.cryptoaustralia.org.au/2017/11/02/pi-hole-network-wide-ad-blocker/)
 - [Know How 355: Killing ads with a Raspberry Pi-Hole!](https://www.twit.tv/shows/know-how/episodes/355)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdschaper%2Fpi-hole.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdschaper%2Fpi-hole?ref=badge_large)
